@@ -10,4 +10,4 @@ if (dhttpAuth) {
   app.use(dhttpAuth);
 }
 app.use(require('compression')());
-app.use(app.express.static(process.cwd() + '/web'));
+app.use(app.express.static(process.cwd() + '/www'));

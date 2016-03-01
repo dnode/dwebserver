@@ -1,7 +1,7 @@
 {
   "name": "dwebserver",
-  "description": "Serves all files in the web directory",
-  "version": "1.0.1",
+  "description": "Serves all files in the 'www' directory",
+  "version": "2.0.0",
   "homepage": "http://github.com/dnode/dwebserver",
   "license": "MIT",
   "readmeFilename": "README.md",
